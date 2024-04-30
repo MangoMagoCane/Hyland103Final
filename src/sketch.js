@@ -4,8 +4,8 @@ let bg = 'gray';
 
 function preload() {
   
-  // loadJSON('https://api.nasa.gov/planetary/apod?api_key=5W8t50BlN33CDsF8IsfM69eqzxFc0oRgfLJTU8Qn', loadBackground);
-  loadJSON('https://api.nasa.gov/EPIC/api/natural/images?api_key=5W8t50BlN33CDsF8IsfM69eqzxFc0oRgfLJTU8Qn', loadBackground);
+  // loadJSON('https://api.nasa.gov/planetary/apod?api_key=', loadBackground);
+  loadJSON('https://api.nasa.gov/EPIC/api/natural/images?api_key=', loadBackground);
   
 }
 
